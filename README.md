@@ -1,4 +1,3 @@
-# Repo: AI-Music-Generator
 
 ## 🎵 AI-Powered Music Generation with AudioCraft
 
